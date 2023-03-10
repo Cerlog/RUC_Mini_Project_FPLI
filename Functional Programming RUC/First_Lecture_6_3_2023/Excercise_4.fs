@@ -15,7 +15,7 @@ let rec fac n =
     then 1
     else n * fac (n-1);;
 fac 0;;
-val it: int = 1
+//val it: int = 1
 
 fac 13;;
 //val it: int = 1932053504
