@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Petrb\\Desktop\\RUC\\6 th semester\\Functional Programming\\Classes\\Functional Programming RUC\\mini_project\\mini_project.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Petrb\\Desktop\\RUC\\6 th semester\\Functional Programming\\Classes\\Functional Programming RUC\\mini_project\\mini_project.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Petrb\\Desktop\\RUC\\6 th semester\\Functional Programming\\Classes\\Functional Programming RUC\\mini_project\\mini_project.fsproj",
+        "projectName": "mini_project",
+        "projectPath": "C:\\Users\\Petrb\\Desktop\\RUC\\6 th semester\\Functional Programming\\Classes\\Functional Programming RUC\\mini_project\\mini_project.fsproj",
+        "packagesPath": "C:\\Users\\Petrb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Petrb\\Desktop\\RUC\\6 th semester\\Functional Programming\\Classes\\Functional Programming RUC\\mini_project\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Petrb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.102\\FSharp\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "generatePathProperty": true
+            },
+            "FsLexYacc": {
+              "target": "Package",
+              "version": "[10.2.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

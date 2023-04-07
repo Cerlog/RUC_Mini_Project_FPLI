@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "14mkVRpl8chGjdrhTLGjjszNoLf4cjPBcPdbf2dh6ONkcZ2hQDe/h90YNA7PQKm+gopSN2CaeAjhva8m+/hMsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petrb\\Desktop\\RUC\\6 th semester\\Functional Programming\\Classes\\Functional Programming RUC\\mini_project\\mini_project.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petrb\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512",
+    "C:\\Users\\Petrb\\.nuget\\packages\\fslexyacc\\10.2.0\\fslexyacc.10.2.0.nupkg.sha512",
+    "C:\\Users\\Petrb\\.nuget\\packages\\fslexyacc.runtime\\10.2.0\\fslexyacc.runtime.10.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
